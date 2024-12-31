@@ -128,7 +128,7 @@ const ReactionTimeGame = () => {
             Hey, hope you are doing well!
           </p>
           <p style={{ fontSize: '1.2rem', marginBottom: '15px', color: '#555' }}>
-            Congrats on passing the vibe check with fast reflexes.
+            Congrats on passing the vibe check with fast reflexes
           </p>
           <p style={{ fontSize: '1.2rem', marginBottom: '15px', color: '#555' }}>
             Thank you for hosting me in Singapore. I've had a lot of fun hanging out with you guys. I respect you as the cool hardworking Singapore-whiz, truly 🫡.
